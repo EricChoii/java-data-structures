@@ -1,2 +1,17 @@
-# java-data-structures-implementation
-Implementation of Dijkstras, BST, Hash Table, RBT, etc.
+
+# *Java Data Structures*
+Implemented by: **Eric Choi**
+
+## Contents
+
+Dijkstra
+
+Hash Table
+
+RBT
+
+BST
+
+## Notes
+
+N/A
